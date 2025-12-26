@@ -76,6 +76,13 @@
             <mxPoint x="296.5" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v3wA0AL85rPLUyNOd53z-27" value="不成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="357" y="350" as="sourcePoint" />
+            <mxPoint x="436" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
