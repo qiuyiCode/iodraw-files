@@ -66,6 +66,9 @@
         <mxCell id="v3wA0AL85rPLUyNOd53z-7" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="207" width="120" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="v3wA0AL85rPLUyNOd53z-8" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="237" y="301" width="120" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
