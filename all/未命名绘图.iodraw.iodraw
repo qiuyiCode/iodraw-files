@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v3wA0AL85rPLUyNOd53z-19" value="复归流程结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="237" y="826" width="120" height="40" as="geometry" />
+          <mxGeometry x="237" y="829" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3wA0AL85rPLUyNOd53z-20" value="复归执行完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="734" width="120" height="41" as="geometry" />
@@ -95,12 +95,7 @@
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="296.5" y="773" as="sourcePoint" />
-            <mxPoint x="297" y="835" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v3wA0AL85rPLUyNOd53z-22" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v3wA0AL85rPLUyNOd53z-21">
-          <mxGeometry x="-0.2543" y="-2" relative="1" as="geometry">
-            <mxPoint x="18" y="2" as="offset" />
+            <mxPoint x="297" y="829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
