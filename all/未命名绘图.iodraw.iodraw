@@ -66,8 +66,14 @@
         <mxCell id="v3wA0AL85rPLUyNOd53z-7" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="207" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="v3wA0AL85rPLUyNOd53z-8" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="v3wA0AL85rPLUyNOd53z-8" value="点击信号复归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="301" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="v3wA0AL85rPLUyNOd53z-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.5" y="259" as="sourcePoint" />
+            <mxPoint x="306.5" y="309" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
