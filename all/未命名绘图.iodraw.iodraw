@@ -80,7 +80,7 @@
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="357" y="523" as="sourcePoint" />
-            <mxPoint x="436" y="523" as="targetPoint" />
+            <mxPoint x="514" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
