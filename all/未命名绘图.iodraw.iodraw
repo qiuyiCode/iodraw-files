@@ -77,7 +77,7 @@
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="296.5" y="673" as="sourcePoint" />
-            <mxPoint x="296.5" y="713" as="targetPoint" />
+            <mxPoint x="297" y="749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
