@@ -77,7 +77,12 @@
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="296.5" y="673" as="sourcePoint" />
-            <mxPoint x="297" y="714" as="targetPoint" />
+            <mxPoint x="297" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v3wA0AL85rPLUyNOd53z-18" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v3wA0AL85rPLUyNOd53z-17">
+          <mxGeometry x="-0.2543" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
