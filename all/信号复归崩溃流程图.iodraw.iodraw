@@ -131,6 +131,18 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-16" value="控制方式&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="247" y="757" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-17" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="247" y="796" as="sourcePoint" />
+            <mxPoint x="135.5" y="859" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="247.5" y="797" />
+              <mxPoint x="135.5" y="797" />
+              <mxPoint x="135.5" y="842" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
