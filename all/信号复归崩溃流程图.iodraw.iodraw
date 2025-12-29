@@ -12,9 +12,10 @@
         <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="无需审核" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" edge="1">
           <mxGeometry x="-0.7875" y="14" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="492" y="767" as="targetPoint" />
+            <mxPoint x="448" y="794" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="492" y="432" />
+              <mxPoint x="448" y="432" />
+              <mxPoint x="448" y="767" />
             </Array>
           </mxGeometry>
         </mxCell>
