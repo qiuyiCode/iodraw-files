@@ -128,6 +128,9 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-14" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="291" y="708" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-16" value="控制方式&lt;div&gt;判断&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="247" y="757" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
