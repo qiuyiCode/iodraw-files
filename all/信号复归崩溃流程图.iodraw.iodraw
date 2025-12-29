@@ -103,17 +103,6 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-5" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="618" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="247" y="644.5" as="sourcePoint" />
-            <mxPoint x="96" y="645.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="247" y="646" />
-              <mxPoint x="125" y="646" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
