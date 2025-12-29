@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="无需审核" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" edge="1">
-          <mxGeometry x="-0.4842" y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.6188" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="400" y="578" as="targetPoint" />
             <Array as="points">
