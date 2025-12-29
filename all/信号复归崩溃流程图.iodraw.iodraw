@@ -125,8 +125,8 @@
             <mxPoint x="297" y="764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="291" y="706" width="40" height="26" as="geometry" />
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-14" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="278" y="706" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
