@@ -135,17 +135,12 @@
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="247" y="796" as="sourcePoint" />
-            <mxPoint x="135.5" y="859" as="targetPoint" />
+            <mxPoint x="136" y="906" as="targetPoint" />
             <Array as="points">
               <mxPoint x="247.5" y="797" />
               <mxPoint x="135.5" y="797" />
               <mxPoint x="135.5" y="842" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3Qu1lzg4o4O21fFiLOl9-17">
-          <mxGeometry x="1" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
