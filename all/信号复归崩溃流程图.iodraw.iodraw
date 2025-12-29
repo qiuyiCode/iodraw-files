@@ -4,89 +4,89 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-1" value="成功" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-5">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-1" value="成功" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-5" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="不成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-4">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="不成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-4" edge="1">
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-3" value="复归选择&lt;div&gt;(预置)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="247" y="491" width="100" height="80" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-3" value="复归选择&lt;div&gt;(预置)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="247" y="408" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-4" value="返回信息&lt;div&gt;遥控结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="511" width="120" height="40" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-4" value="返回信息&lt;div&gt;遥控结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="426" y="428" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-5" value="复归执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="612" width="120" height="41" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-5" value="复归执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="529" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="237" y="119" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="296.5" y="159" as="sourcePoint" />
             <mxPoint x="296.5" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-8" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-8" value="进入间隔图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237" y="209" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="296.5" y="250" as="sourcePoint" />
             <mxPoint x="296.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-10" value="目标状态确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="694" width="120" height="41" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-10" value="目标状态确认" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="611" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="296.5" y="735" as="sourcePoint" />
-            <mxPoint x="297" y="797" as="targetPoint" />
+            <mxPoint x="296.5" y="652" as="sourcePoint" />
+            <mxPoint x="297" y="714" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-12" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgZk8MLorxnagRtJe4FQ-11">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-12" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TgZk8MLorxnagRtJe4FQ-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2543" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-13" value="复归流程结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="237" y="891" width="120" height="40" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-13" value="复归流程结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="237" y="808" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-14" value="复归执行完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="796" width="120" height="41" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-14" value="复归执行完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="237" y="713" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="296.5" y="835" as="sourcePoint" />
-            <mxPoint x="297" y="891" as="targetPoint" />
+            <mxPoint x="296.5" y="752" as="sourcePoint" />
+            <mxPoint x="297" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-16" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-16" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="296.5" y="653" as="sourcePoint" />
-            <mxPoint x="296.5" y="694" as="targetPoint" />
+            <mxPoint x="296.5" y="570" as="sourcePoint" />
+            <mxPoint x="296.5" y="611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-17" value="确认过程频繁点击关闭按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-17" value="确认过程频繁点击关闭按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="357" y="714" as="sourcePoint" />
-            <mxPoint x="514" y="772" as="targetPoint" />
+            <mxPoint x="357" y="631" as="sourcePoint" />
+            <mxPoint x="514" y="689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-18" value="界面崩溃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="457" y="772" width="120" height="40" as="geometry" />
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-18" value="界面崩溃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="457" y="689" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-19" value="&lt;div&gt;点击信号复归&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-19" value="&lt;div&gt;点击信号复归&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237" y="299" width="120" height="41" as="geometry" />
         </mxCell>
       </root>
