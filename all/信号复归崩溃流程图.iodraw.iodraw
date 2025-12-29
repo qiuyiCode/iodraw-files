@@ -168,11 +168,11 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-25" value="遥控流程结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="237" y="1096" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-32" value="确认过程频繁点击关闭按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="59.25" y="1012" as="sourcePoint" />
-            <mxPoint x="216.25" y="1070" as="targetPoint" />
+            <mxPoint x="116" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
