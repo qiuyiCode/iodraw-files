@@ -44,13 +44,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-10" value="目标状态确认" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237" y="699" width="120" height="41" as="geometry" />
+          <mxGeometry x="234" y="873" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="296.5" y="740" as="sourcePoint" />
-            <mxPoint x="297" y="802" as="targetPoint" />
+            <mxPoint x="293.5" y="914" as="sourcePoint" />
+            <mxPoint x="294" y="976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-12" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TgZk8MLorxnagRtJe4FQ-11" vertex="1" connectable="0">
@@ -59,16 +59,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-13" value="复归流程结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="237" y="896" width="120" height="40" as="geometry" />
+          <mxGeometry x="234" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-14" value="复归执行完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237" y="801" width="120" height="41" as="geometry" />
+          <mxGeometry x="234" y="975" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="296.5" y="840" as="sourcePoint" />
-            <mxPoint x="297" y="896" as="targetPoint" />
+            <mxPoint x="293.5" y="1014" as="sourcePoint" />
+            <mxPoint x="294" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-16" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
@@ -81,12 +81,12 @@
         <mxCell id="TgZk8MLorxnagRtJe4FQ-17" value="确认过程频繁点击关闭按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="357" y="719" as="sourcePoint" />
-            <mxPoint x="514" y="777" as="targetPoint" />
+            <mxPoint x="354" y="893" as="sourcePoint" />
+            <mxPoint x="511" y="951" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-18" value="界面崩溃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="457" y="777" width="120" height="40" as="geometry" />
+          <mxGeometry x="454" y="951" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-19" value="&lt;div&gt;点击信号复归&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="237" y="299" width="120" height="41" as="geometry" />
@@ -97,8 +97,8 @@
             <mxPoint x="296.5" y="392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-2" value="是否需要&lt;div&gt;进行审核操作&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="257" y="402" width="100" height="80" as="geometry" />
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-2" value="&lt;br&gt;&lt;div&gt;是否审核通过&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="247" y="605" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
