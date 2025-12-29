@@ -143,6 +143,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3Qu1lzg4o4O21fFiLOl9-17">
+          <mxGeometry x="1" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -154,7 +159,7 @@
           <mxGeometry x="296" y="848" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-20" value="选控操作界面&lt;div&gt;(需要预置)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="896" width="120" height="41" as="geometry" />
+          <mxGeometry x="237" y="894" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-21" value="选控操作界面&lt;div&gt;(需要预置)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="868" width="120" height="41" as="geometry" />
