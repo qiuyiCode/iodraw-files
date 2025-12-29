@@ -111,8 +111,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364" y="617" width="40" height="26" as="geometry" />
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-5" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357" y="617" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
