@@ -12,7 +12,10 @@
         <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="无需审核" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" edge="1">
           <mxGeometry x="-0.4842" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="430" y="530" as="targetPoint" />
+            <mxPoint x="430" y="532" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="431" y="432" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-3" value="是否需要&lt;div&gt;进行审核操作&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
