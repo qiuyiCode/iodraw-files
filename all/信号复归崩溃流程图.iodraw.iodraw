@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="无需审核" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" edge="1">
-          <mxGeometry x="-0.6188" y="15" relative="1" as="geometry">
+          <mxGeometry x="-0.5875" y="12" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="400" y="578" as="targetPoint" />
             <Array as="points">
@@ -75,7 +75,7 @@
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="296.5" y="554" as="sourcePoint" />
-            <mxPoint x="296.5" y="595" as="targetPoint" />
+            <mxPoint x="297" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TgZk8MLorxnagRtJe4FQ-17" value="确认过程频繁点击关闭按钮" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" edge="1">
@@ -96,6 +96,9 @@
             <mxPoint x="296.5" y="342" as="sourcePoint" />
             <mxPoint x="296.5" y="392" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-2" value="是否需要&lt;div&gt;进行审核操作&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="257" y="402" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
