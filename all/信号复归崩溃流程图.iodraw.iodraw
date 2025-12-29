@@ -103,15 +103,15 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="347" y="643" as="sourcePoint" />
-            <mxPoint x="463" y="644" as="targetPoint" />
+            <mxPoint x="136" y="716" as="sourcePoint" />
+            <mxPoint x="43" y="721" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="347" y="644" />
+              <mxPoint x="136" y="717" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-5" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="618" width="54" height="26" as="geometry" />
+          <mxGeometry x="168" y="601" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
