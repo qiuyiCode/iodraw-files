@@ -5,11 +5,11 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TgZk8MLorxnagRtJe4FQ-1" value="成功" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-5" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
+          <mxGeometry x="-0.0732" y="27" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="不成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-4" edge="1">
+        <mxCell id="TgZk8MLorxnagRtJe4FQ-2" value="无需审核" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="1" source="TgZk8MLorxnagRtJe4FQ-3" target="TgZk8MLorxnagRtJe4FQ-4" edge="1">
           <mxGeometry x="-0.2658" y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
