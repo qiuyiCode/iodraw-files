@@ -153,8 +153,11 @@
         <mxCell id="3Qu1lzg4o4O21fFiLOl9-19" value="选控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="296" y="848" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3Qu1lzg4o4O21fFiLOl9-20" value="选控操作界面(需要预置)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-20" value="选控操作界面&lt;div&gt;(需要预置)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="897" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="3Qu1lzg4o4O21fFiLOl9-21" value="选控操作界面&lt;div&gt;(需要预置)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="907" width="120" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
